@@ -202,7 +202,7 @@ export function HeroSection3D() {
               size="lg"
               className="bg-primary hover:bg-primary/90 text-primary-foreground px-8 py-3 text-lg transform hover:scale-105 transition-transform"
             >
-              <a href="/philosophy">Khám Phá Các Giai Đoạn Phát Triển</a>
+              <a href="/theory">Khám Phá Các Giai Đoạn Phát Triển</a>
             </Button>
             <Button
               variant="outline"
