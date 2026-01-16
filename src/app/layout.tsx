@@ -30,7 +30,7 @@ export default function RootLayout({
         <PageTransition>
           <Suspense fallback={null}>{children}</Suspense>
         </PageTransition>
-        <ConfuciusChatbot />
+        {/* <ConfuciusChatbot /> */}
         <Analytics />
       </body>
     </html>
